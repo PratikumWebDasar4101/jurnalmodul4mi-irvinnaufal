@@ -47,7 +47,7 @@ for ($i=0; $i <= count($array) ; $i++) {
 	echo $array[$i]." ";
 }
 ?>
-<a href="Formawal.html"><br>Logout</a>
+<a href="formawal.html"><br>Logout</a>
 
 
 ?>
